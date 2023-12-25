@@ -1,0 +1,246 @@
+{
+  "user_table": [
+    {
+      "id": 1,
+      "token": "token",
+      "first_name": "SAKSHI Update",
+      "last_name": "khatri",
+      "profile_image": "data:image/jpeg;base64,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",
+      "phone": "7387395733",
+      "email": "sakshikhatri997@gmail.com",
+      "password": "12345",
+      "bio": "Hello This is My Bio Section.. "
+    }
+  ],
+  "tvshow_library": [
+    {
+      "tvshow_id": 1,
+      "tvshow_name": "Foundation",
+      "tvshow_release": "July 14, 2023",
+      "category": "Drama",
+      "description": "Created by Josh Friedman, David S. Goyer. With Jared Harris, Lou Llobell, Leah Harvey, Terrence Mann. A complex saga of humans scattered on planets throughout the galaxy all living under the rule of the Galactic Empire.",
+      "image": "../images/foundation.jps",
+      "video": "../videos/foundation.mp4",
+      "year": "2023"
+    },
+    {
+      "tvshow_id": 2,
+      "tvshow_name": "What we do in shadows.",
+      "tvshow_release": "July 13,2023",
+      "category": "TV series",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium iste in veritatis amet nemo dolorem placeat ipsum harum ullam non!",
+      "image": "../images/shadow.jpg",
+      "video": "../videos/shadow.mp4",
+      "year": "2023"
+    },
+    {
+      "tvshow_id": 11,
+      "tvshow_name": "Happy Valley : Season 3",
+      "tvshow_release": "January 1, 2023",
+      "category": "TV Drama series",
+      "description": "It's a truism that shows on the BBC and ITV are never canceled; they disappear for a while before wandering back. That can lead to shows that forget they needed to end already, like Steve Moffat's never-ending threats to revive Sherlock. But in many cases, it can mean a delightful return of old friends years after you last saw them, like the surprise return of Last Tango in Halifax. For fans of Happy Valley, last seen in 2016, the announcement the BBC would bring it back for Season 3 in 2023, co-produced by AMC Networks, was a return to check in on old friends years later",
+      "image": "../images/happyValley2023.jpg",
+      "video": "../videos/happyValley.mp4",
+      "year": "2023"
+    },
+    {
+      "tvshow_id": 12,
+      "tvshow_name": "Barry",
+      "tvshow_release": "May 28, 2023",
+      "category": "TV series",
+      "description": "Like so many of its characters, Barry drew the short end of the stick. Throughout its fourth and final season, on every Sunday night, Bill Hader's labor of love had to follow Succession. All too often, the who will be the CEO?! noise drowned out the downright extraordinary things that happened in Barry—especially in its last few episodes. Mainly? Emmy-worthy performances from the likes of Sarah Goldberg and Anthony Carrigan, Hader's emergence as a great director, and a fitting, yet divisive finale. But Barry should—and will, I hope—be forever canonized in the HBO Hall of Fame.—B.L",
+      "image": "../images/barry.jpg",
+      "video": "../videos/baary.mp4",
+      "year": "2023"
+    },
+    {
+      "tvshow_id": 13,
+      "tvshow_name": "Star Trek: Strange New Worlds",
+      "tvshow_release": "May 05, 2023",
+      "category": "TV Series",
+      "description": "Disney+'s Star Wars television universe flailing, while Star Trek reigns supreme on Paramount+? A strange new world indeed! June saw the return of the stellar Strange New Worlds, which doubled down on its multitudes of magic tricks with a bold homage to The Original Series, a thrilling Lower Decks crossover, and even—gasp!—a musical episode. In its second season, Strange New Worlds took some bold swings while still delivering on beloved episodic conceits, like “away mission gone sideways” and “Starfleet court martial.” Through it all, the series remained laser-focused on what makes Star Trek sing: its thoughtful exploration of what these intergalactic dust-ups signify about our culture, our morality, and our humanity.",
+      "image": "../images/starTrek.jpg",
+      "video": "../videos/starTrek.mp4",
+      "year": "2023"
+    },
+    {
+      "tvshow_id": 14,
+      "tvshow_name": "The Last Of US",
+      "tvshow_release": "March 19, 2023",
+      "category": "TV Series",
+      "description": "Video game adaptation curse, blah, blah, blah. If you've played even an hour of The Last of Us, you'll know that the writers of the HBO series weren't exactly working with Uncharted as source material. (Of course, only a tiny bit of offense to Uncharted—and absolutely none to Tom Holland.) The Last of Us always felt more like a miniseries than a video game in the first place. Add Pedro Pascal to the mix, and this survival road trip dominated television in January and February for good reason. But what made The Last of Us survive the damn near post-apocalyptic year of 2023? It’s the adaptation’s swerves from its source material—especially the Murray Bartlett and Nick Offerman-starring Episode Three, “Long, Long Time,” which may very well be the best 60 minutes we saw on television this year. Pedro: we'll let you protect us from rabid monsters during the apocalypse any day.—B.L.",
+      "image": "../images/TheLastOfUS.jpg",
+      "video": "../videos/TheLastOfUS.mp4",
+      "year": "2023"
+    },
+    {
+      "tvshow_id": 15,
+      "tvshow_name": "Jury Duty",
+      "tvshow_release": "April 7, 2023",
+      "category": "TV Series",
+      "description": "Oh, did you think the cutesy, heartwarming, mockumentary-style sitcom (a la Parks & Recreation) was dead? Well, I thought so too, until Jury Duty shocked the world. If you somehow missed 2023’s most delightful television surprise, the eight-episode series follows, yes, a ragtag group of jurors—colorful characters abound!—as they deliberate on a case. The twist? One of the jurors doesn't know they're on a TV show. Enter Ronald Gladden, who thinks that fellow juror, James Marsden (who plays himself), is an honest-to-god asshole..",
+      "image": "../images/juryDuty.jpg",
+      "video": "../videos/juryDuty.mp4",
+      "year": "2023"
+    },
+    {
+      "tvshow_id": 16,
+      "tvshow_name": "Succession season 3",
+      "tvshow_release": "September 19, 2023",
+      "category": "TV Series",
+      "description": "Television’s best-crafted drama officially came to an end with Season Four. Say it ain’t so! But Succession went out in top form. Season Four found the adult children of media mogul Logan Roy united in a tenuous alliance against their father, who arranged to sell the family business—and their inheritance. After years of sniping and backstabbing, the Roys tried to stick together to get the better of the father, who tormented them. As Succession approached the finish line, it remained characteristically excellent—snappy, smart, and devastating. Stuff that in your ludicrously capacious handbag.—A.W.",
+      "image": "../images/succession.jpg",
+      "video": "../videos/succession.mp4",
+      "year": "2023"
+    },
+    {
+      "tvshow_id": 17,
+      "tvshow_name": "Interview With the Vampire",
+      "tvshow_release": "September 29, 2022",
+      "category": "TV Series",
+      "description": " Now, here’s everything we know about the upcoming Interview With the Vampire TV show so far. Interview With the Vampire will be adapted from the novel of the same name by the late Anne Rice, the first in a thirteen-book series called The Vampire Chronicles (AMC has acquired the rights to",
+      "image": "../images/vampire.jpg",
+      "video": "../videos/vampire.mp4",
+      "year": "2022"
+    },
+    {
+      "tvshow_id": 18,
+      "tvshow_name": "The Bear",
+      "tvshow_release": "June 23, 2022",
+      "category": "TV Series",
+      "description": "The Bear: Created by Christopher Storer. With Jeremy Allen White, Ebon Moss-Bachrach, Ayo Edebiri, Lionel Boyce. A young chef from the fine dining world returns to Chicago to run his family's sandwich shop.",
+      "image": "../images/bear.jpg",
+      "video": "../videos/bear.mp4",
+      "year": "2022"
+    },
+    {
+      "tvshow_id": 19,
+      "tvshow_name": "MurverVille (Season 1)",
+      "tvshow_release": "February 3, 2022",
+      "category": "TV Series",
+      "description": "Television’s best-crafted drama officially came to an end with Season Four. Say it ain’t so! But Succession went out in top form. Season Four found the adult children of media mogul Logan Roy united in a tenuous alliance against their father, who arranged to sell the family business—and their inheritance. After years of sniping and backstabbing, the Roys tried to stick together to get the better of the father, who tormented them. As Succession approached the finish line, it remained characteristically excellent—snappy, smart, and devastating. Stuff that in your ludicrously capacious handbag.—A.W.",
+      "image": "../images/murderville.jpg",
+      "video": "../videos/succession.mp4",
+      "year": "2022"
+    },
+    {
+      "tvshow_id": 20,
+      "tvshow_name": "Night Sky(Season 1)",
+      "tvshow_release": "January 11, 2022",
+      "category": "TV Show",
+      "description": "Television’s best-crafted drama officially came to an end with Season Four. Say it ain’t so! But Succession went out in top form. Season Four found the adult children of media mogul Logan Roy united in a tenuous alliance against their father, who arranged to sell the family business—and their inheritance. After years of sniping and backstabbing, the Roys tried to stick together to get the better of the father, who tormented them. As Succession approached the finish line, it remained characteristically excellent—snappy, smart, and devastating. Stuff that in your ludicrously capacious handbag.—A.W.",
+      "image": "../images/nightSky.jpg",
+      "video": "../videos/succession.mp4",
+      "year": "2022"
+    },
+    {
+      "tvshow_id": 21,
+      "tvshow_name": "WE own this city",
+      "tvshow_release": "April 19, 2022",
+      "category": "TV Show",
+      "description": "Premiered April 25 on HBO - The Wire's David Simon is back in Baltimore for another devastating tale of institutional decay. His and George Pelecanos' limited series, which is based on a nonfiction book of the same name, tells the story of the Gun Trace Task Force — a disgustingly corrupt Baltimore Police Department unit given broad authority and minimal oversight — and the reformers attempting to clean up the department after the eye-opening killing of Freddie Gray in 2015 who brought them down.",
+      "image": "../images/own.jpg",
+      "video": "../videos/succession.mp4",
+      "year": "2022"
+    },
+    {
+      "tvshow_id": 22,
+      "tvshow_name": "Wedding Season (Season 1)",
+      "tvshow_release": "Jan. 4 on Netflix",
+      "category": "TV series",
+      "description": "The life of average Californian Bruce Sun turned upside down once his older brother, Charles Sun visits Los Angeles, California from Taipei, Taiwan. Having no recollection of his past in Taipei, Bruce would soon learn about his families' profession as Taipei renowned gangster with his brother being a hardened criminal raised by his late crime boss father. Having his father assassinated, Charles had to move to LA to keep his families safe. Additionally, he would find out that his mother moved with him to California in order to build a life away from her estranged family. However, his mother's effort proved to be futile as now Bruce had to adapt to the gangster life of his family",
+      "image": "../images/weddingSeason.jpg",
+      "video": "../videos/theBrother'sSun.mp4",
+      "year": "2024"
+    },
+    {
+      "tvshow_id": 6,
+      "tvshow_name": "Monsieur Spade",
+      "tvshow_release": " Jan. 14 on AMC",
+      "category": "TV series",
+      "description": "Based on the 1930 novel The Maltese Falcon by Dashiell Hammett—Monsieur Spade picks up where The Maltese Falcon left off. The private investigator Sam Spade (Clive Owen) is dragged out of tranquil retirement in the south of France to look into the brutal murders of a half a dozen nuns at the local convent. Their deaths, it seems, are mysteriously linked to a child that everyone is chasing, who is believed to have great powers",
+      "image": "../images/monsieurSpade.jpg",
+      "video": "../videos/monsieur.mp4",
+      "year": "2024"
+    },
+    {
+      "tvshow_id": 7,
+      "tvshow_name": "Death and Other Details.",
+      "tvshow_release": "Jan. 16 on Hulu",
+      "category": "TV series",
+      "description": "Maya Lopez, or Echo (Alaqua Cox), entered the Marvel Cinematic Universe in the 2021 miniseries Hawkeye. Then, she was the head of the criminal gang Tracksuit Mafia, working under the crime lord Wilson Fisk, or Kingpin (Vincent D'Onofrio). Now, Echo, who is deaf, has returned to her Oklahoma hometown. She’s reckoning with her past—which heavily involves Kingpin, her adoptive uncle, who is responsible for her father’s death—and reconnecting with her Native American roots.",
+      "image": "../images/deadthAndDeatils.jpg",
+      "video": "../videos/death.mp4",
+      "year": "2024"
+    },
+    {
+      "tvshow_id": 8,
+      "tvshow_name": "Griselda ",
+      "tvshow_release": "Jan. 25 on Netflix",
+      "category": "TV series",
+      "description": "This crime drama, “from the creative minds that brought you Narcos,” dramatizes the life story of Colombian drug lord Griselda Blanco (Sofía Vergara.) She is framed as a jack-of-all-trades “queenpin, innovator, mother, and killer,” although the real-life Griselda was ruthlessly violent. Griselda follows its titular character from Medellín, where she shot and killed her husband, to Miami, where she established a massive, bloody cocaine empire.",
+      "image": "../images/griselda.jpg",
+      "video": "../videos/Griselda.mp4",
+      "year": "2024"
+    },
+    {
+      "tvshow_id": 9,
+      "tvshow_name": "Masters of the Air",
+      "tvshow_release": "Jan. 26 on Apple TV+",
+      "category": "TV Mini series",
+      "description": "This crime drama, “from the creative minds that brought you Narcos,” dramatizes the life story of Colombian drug lord Griselda Blanco (Sofía Vergara.) She is framed as a jack-of-all-trades “queenpin, innovator, mother, and killer,” although the real-life Griselda was ruthlessly violent. Griselda follows its titular character from Medellín, where she shot and killed her husband, to Miami, where she established a massive, bloody cocaine empire.",
+      "image": "../images/masters.jpg",
+      "video": "../videos/masters.mp4",
+      "year": "2024"
+    },
+    {
+      "tvshow_id": 10,
+      "tvshow_name": "Expats",
+      "tvshow_release": " Jan. 26 on Prime Video",
+      "category": "TV Mini series",
+      "description": "This crime drama, “from the creative minds that brought you Narcos,” dramatizes the life story of Colombian drug lord Griselda Blanco (Sofía Vergara.) She is framed as a jack-of-all-trades “queenpin, innovator, mother, and killer,” although the real-life Griselda was ruthlessly violent. Griselda follows its titular character from Medellín, where she shot and killed her husband, to Miami, where she established a massive, bloody cocaine empire.",
+      "image": "../images/expats.jpg",
+      "video": "../videos/expats.mp4",
+      "year": "2024"
+    },
+    {
+      "tvshow_id": 23,
+      "tvshow_name": "Hawkeye",
+      "tvshow_release": "Jan 08, 2021",
+      "category": "TV Show",
+      "description": "Series based on the Marvel Comics superhero Hawkeye, centering on the adventures of Young Avenger, Kate Bishop, who took on the role after the original Avenger, Clint Barton.",
+      "image": "../images/hawkeye.jpg",
+      "video": "../videos/ipad_-_2988.mp4",
+      "year": "2021"
+    },
+    {
+      "tvshow_id": 24,
+      "tvshow_name": "Loki",
+      "tvshow_release": "March 12, 2021",
+      "category": "Tv Series",
+      "description": "matot tilev mallu lihin subitatpulov rorre tema mauqsiuq otsui isin talleper maspi tareauq ,saitselom metatpulov ,rutanrepsA ?subirolod otsui muspi setatpulov otcetihcra iuq ,taecalp erotnevni atcid iuqes euqmerolod somissingid silicaf ,obacilpxe eativ mauQ .tile gnicisipida rutetcesnoc tema tis rolod muspi meroL",
+      "image": "../images/loki.jpg",
+      "video": "../videos/ipad_-_2988.mp4",
+      "year": "2021"
+    },
+    {
+      "tvshow_id": 25,
+      "tvshow_name": "The Wheel Of Time",
+      "category": "TV SHOW",
+      "description": "Set in a high fantasy world where magic exists, but only some can access it, a woman named Moiraine crosses paths with five young men and women. This sparks a dangerous, world-spanning journey. Based on the book series by Robert Jordan",
+      "image": "../images/wheel.jpg",
+      "video": "../videos/ipad_-_2988.mp4",
+      "year": "2021"
+    },
+    {
+      "tvshow_id": 26,
+      "tvshow_name": "Superman & Lois ",
+      "tvshow_release": "Jun 12, 2021",
+      "category": "TV series",
+      "description": "matot tilev mallu lihin subitatpulov rorre tema mauqsiuq otsui isin talleper maspi tareauq ,saitselom metatpulov ,rutanrepsA ?subirolod otsui muspi setatpulov otcetihcra iuq ,taecalp erotnevni atcid iuqes euqmerolod somissingid silicaf ,obacilpxe eativ mauQ .tile gnicisipida rutetcesnoc tema tis rolod muspi meroL",
+      "image": "../images/superman.jpg",
+      "video": "../videos/ipad_-_2988.mp4",
+      "year": "2021"
+    }
+  ]
+}
